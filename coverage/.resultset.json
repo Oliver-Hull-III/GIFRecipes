@@ -1,0 +1,258 @@
+{
+  "Cucumber Features": {
+    "coverage": {
+      "/home/ubuntu/workspace/GifRecipes/app/models/user.rb": [
+        1,
+        null,
+        null,
+        1,
+        null,
+        null
+      ],
+      "/home/ubuntu/workspace/GifRecipes/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/home/ubuntu/workspace/GifRecipes/app/models/gif.rb": [
+        1,
+        1,
+        1,
+        null,
+        1,
+        17,
+        4,
+        null,
+        null,
+        null,
+        1,
+        4,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/home/ubuntu/workspace/GifRecipes/app/models/tag.rb": [
+        1,
+        1,
+        1,
+        null
+      ],
+      "/home/ubuntu/workspace/GifRecipes/app/models/tagging.rb": [
+        1,
+        1,
+        1,
+        null
+      ],
+      "/home/ubuntu/workspace/GifRecipes/app/controllers/gifs_controller.rb": [
+        1,
+        null,
+        1,
+        7,
+        0,
+        7,
+        1,
+        null,
+        6,
+        null,
+        null,
+        null,
+        1,
+        4,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        2,
+        null,
+        2,
+        2,
+        null,
+        null,
+        1,
+        1,
+        2,
+        null,
+        null,
+        null
+      ],
+      "/home/ubuntu/workspace/GifRecipes/app/controllers/application_controller.rb": [
+        1,
+        1,
+        null
+      ],
+      "/home/ubuntu/workspace/GifRecipes/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/home/ubuntu/workspace/GifRecipes/app/helpers/gifs_helper.rb": [
+        1,
+        1,
+        7,
+        null,
+        null
+      ],
+      "/home/ubuntu/workspace/GifRecipes/app/jobs/application_job.rb": [
+        0,
+        0
+      ],
+      "/home/ubuntu/workspace/GifRecipes/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/home/ubuntu/workspace/GifRecipes/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/home/ubuntu/workspace/GifRecipes/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1483320715
+  },
+  "RSpec": {
+    "coverage": {
+      "/home/ubuntu/workspace/GifRecipes/app/models/user.rb": [
+        1,
+        null,
+        null,
+        1,
+        null,
+        null
+      ],
+      "/home/ubuntu/workspace/GifRecipes/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/home/ubuntu/workspace/GifRecipes/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/home/ubuntu/workspace/GifRecipes/app/helpers/gifs_helper.rb": [
+        1,
+        1,
+        0,
+        null,
+        null
+      ],
+      "/home/ubuntu/workspace/GifRecipes/app/controllers/gifs_controller.rb": [
+        1,
+        null,
+        1,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        0,
+        null,
+        0,
+        0,
+        null,
+        null,
+        1,
+        1,
+        0,
+        null,
+        null,
+        null
+      ],
+      "/home/ubuntu/workspace/GifRecipes/app/controllers/application_controller.rb": [
+        1,
+        1,
+        null
+      ],
+      "/home/ubuntu/workspace/GifRecipes/app/models/gif.rb": [
+        1,
+        1,
+        1,
+        null,
+        1,
+        4,
+        4,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null
+      ],
+      "/home/ubuntu/workspace/GifRecipes/app/models/tag.rb": [
+        1,
+        1,
+        1,
+        null
+      ],
+      "/home/ubuntu/workspace/GifRecipes/app/models/tagging.rb": [
+        1,
+        1,
+        1,
+        null
+      ],
+      "/home/ubuntu/workspace/GifRecipes/app/jobs/application_job.rb": [
+        0,
+        0
+      ],
+      "/home/ubuntu/workspace/GifRecipes/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/home/ubuntu/workspace/GifRecipes/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/home/ubuntu/workspace/GifRecipes/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1483320706
+  }
+}
