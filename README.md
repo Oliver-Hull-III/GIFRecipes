@@ -24,15 +24,16 @@ Install required gems
 bundle install --without production
 ```
 
+Apply DB Migration
+```
+rake db:migrate
+```
+
 Seed database with GIFS
 ```
 rake db:seed
 ```
 
-Apply DB Migration
-```
-rake db:migrate
-```
 Start server (on cloud 9)
 ```
 rails s -b $IP -p $PORT
