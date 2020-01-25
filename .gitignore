@@ -19,3 +19,4 @@ a Ignore bundler config.
 
 # Ignore Byebug command history file.
 .byebug_history
+coverage
